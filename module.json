@@ -1,0 +1,14 @@
+{
+  "name": "projet-iot-common",
+  "version": "0.0.0",
+  "description": "common headers for cpe iot project",
+  "keywords": [],
+  "author": "JAD",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qwertyjuju/projet-iot-common.git"
+  },
+  "homepage": "https://github.com/qwertyjuju/projet-iot-common.git",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
